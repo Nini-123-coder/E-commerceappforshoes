@@ -1,0 +1,57 @@
+[{
+    "id":1,
+    "name":"Watch",
+    "category":"",
+    "price":"$500",
+    "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fblackwatch.ng%2Fproduct%2Fforecast-double-face-chain-wristwatch%2F&psig=AOvVaw0lM43PRBkCFsDTBvQKQ4fv&ust=1723234144999000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCID61a-Z5ocDFQAAAAAdAAAAABAE",
+    "description":""
+    },
+
+    
+    {
+    "id":5,
+    "name":"crocs",
+    "category":"",
+    "price":"$55",
+    "image":"https://www.google.com/imgres?q=balenciaga%20crocs&imgurl=https%3A%2F%2Fimage-cdn.hypb.st%2Fhttps%253A%252F%252Fhypebeast.com%252Fimage%252F2022%252F02%252Fbalenciaga-hardcrocs-crocs-spring-summer-2022-runway-show-shoe-demna-release-info-pre-order-tw.jpg%3Fw%3D1080%26cbr%3D1%26q%3D90%26fit%3Dmax&imgrefurl=https%3A%2F%2Fhypebeast.com%2F2022%2F2%2Fbalenciaga-hardcrocs-crocs-spring-summer-2022-runway-show-shoe-demna-release-info-pre-order&docid=XD3WUn2fqRBf4M&tbnid=8vaKWZ_3L3rJIM&vet=12ahUKEwjC-NvLkeaHAxVzVkEAHRL2GIAQM3oECGcQAA..i&w=1000&h=500&hcb=2&ved=2ahUKEwjC-NvLkeaHAxVzVkEAHRL2GIAQM3oECGcQAA",
+    "description":""
+    },
+
+    {
+    "id":6,
+    "name":"phone",
+    "category":"",
+    "price":"$1000",
+    "image":"https://www.samsung.com/levant/smartphones/galaxy-s/",
+    "description":""
+    },
+
+    {
+    "id":7,
+    "name":"shirt",
+    "category":"",
+    "price":"$20",
+    "image":"https://www.cartrollers.com/product/high-quality-designer-vintage-shirt-19/",
+    "description":""
+    },
+
+    {
+    "id":8,
+    "name":"laptop",
+    "category":"",
+    "price":"$300",
+    "image":"https://www.pcmag.com/picks/the-best-budget-laptops",
+    "description":""
+    },
+
+
+    {
+    "id":9,
+    "name":"shoes",
+    "category":"",
+    "price":"$250",
+    "image":"https://www.google.com/imgres?q=blue%20shoe&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1249496770%2Fphoto%2Frunning-shoes.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3Db4MahNlk4LH6H1ksJApfnlQ5ZPM3KGhI5i_yqhGD9c4%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fblue-shoes&docid=yUJC7Dg4img4_M&tbnid=Ko7-yianHLTvVM&vet=12ahUKEwjx2dzMl-aHAxVST0EAHcYALEAQM3oFCIEBEAA..i&w=612&h=531&hcb=2&ved=2ahUKEwjx2dzMl-aHAxVST0EAHcYALEAQM3oFCIEBEAA",
+    "description":""
+    }
+
+]

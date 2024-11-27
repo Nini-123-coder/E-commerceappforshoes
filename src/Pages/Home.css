@@ -1,0 +1,21 @@
+.MainBody{
+    width:100%;
+    height: 130vw;
+    background: linear-gradient(to left, #ffc8a3, #ff9448);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MainBodyWrapper{
+    margin-top: 10px;
+    width: 85%;
+    height: 75%;
+    background-color: #ffe0b6;
+    border-radius: 50px;
+    border: 7px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}

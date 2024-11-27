@@ -1,0 +1,34 @@
+.HeroMain{
+    margin-top: 20px;
+    width: 80%;
+    height: 19%;
+    background-image: url(src/Assets/modern-orange-abstract-background_535770-6.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+}
+
+.HeroMainWrapper{
+    margin-top: 70px;
+    width: 89%;
+    height: 15%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 180px;
+    position: absolute;
+
+    >p{
+        font-weight: 600;
+        font-size: 12px;
+    }
+
+    >h1{
+        font-size: 30px;
+    }
+}

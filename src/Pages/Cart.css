@@ -1,0 +1,74 @@
+.MainBody{
+    width:100%;
+    height: 130vw;
+    background: linear-gradient(to left, #ffc8a3, #ff9448);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MainBodyWrapper{
+    margin-top: 10px;
+    width: 85%;
+    height: 90%;
+    background-color: #ffebc1;
+    border-radius: 50px;
+    border: 7px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+
+.Cart{
+    width: 60vw;
+    border-radius: 10px;
+    min-height: 30vh;
+    height: max-content;
+    background: linear-gradient(to right,#fff7f177,#f5c2a5, #f5c2a5,#fff7f177);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    margin-top: 140px;
+}
+
+.CartBox{
+    width: 100%;
+    height: 100px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.CartImg{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(248, 170, 24);
+}
+
+.CartDetails{
+    width: 70%;
+    height: 100%;
+    background-color: #fff;
+    padding: 5px;
+}
+.Controls{
+    width: 100%;
+    height: max-content;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.DetailsControl{
+ width: 100%;
+ display: flex;
+ align-items: center;
+ gap: 10px;
+}
